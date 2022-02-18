@@ -1,7 +1,7 @@
 # MechaCar_Statistical_Analysis
 
 ## Overview
-
+The purpose of this analysis is to look at the production data of each lot. Insights and results from the analysis will be used to solve production issues.
 
 ## Linear Regression to Predict MPG
 ![](https://github.com/jlynw/MechaCar_Statistical_Analysis/blob/main/Images/linearregression.PNG)
@@ -32,3 +32,4 @@
 - The p-values for lots for 1 and 2 are greater than 0.05. Therefore, these lots are not statistically different from the population mean. However, the p-value for lot 3 is less than 0.05. Lot three is significantly different from the population mean.
 
 ## Study Design: MechaCar vs Competition
+A valuable metric to test would be fuel efficiency of MechaCar and its competition. The null hypothesis would be the miles per gallon of MechaCars is not statistically different from the population mean of its competition. The alternative hyopthesis is that MechaCar's fuel efficiency is not statistically different from its competition. To test this hypothesis I would use a t-test. The data needed is miliage per gallon. 
