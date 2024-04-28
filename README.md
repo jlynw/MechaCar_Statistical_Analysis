@@ -7,6 +7,7 @@ AutosRUs' newest prototype, the MechaCar, is experiencing production issues that
 The MechaCar prototypes were produced using multiple design specifications to identify ideal vehicle performance. Multiple metrics, such as vehicle length, vehicle weight, spoiler angle, drivetrain, and ground clearance were collected for each vehicle (MechaCar_mpg.csv). Using multiple linear regression analysis, variables that predict the mpg (miles per gallon) were identified.
 
 Below is the RScript used for the analysis.
+
 ![](https://github.com/jlynw/MechaCar_Statistical_Analysis/blob/main/Images/linearregression.PNG)
 
 - Vehicle length and ground clearance provided a non-random amount of variance to the mpg values in the dataset.
